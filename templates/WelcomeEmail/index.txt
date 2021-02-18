@@ -1,0 +1,7 @@
+Hello {{firstName}}, 
+Welcome to Tesco Finance, we're excited to get to know you. 
+
+You can start browsing our feature-rich website at http://www.xllr.co.uk
+
+Kind Regards,
+The Tesco Finance Team

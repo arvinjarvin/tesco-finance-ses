@@ -1,0 +1,3 @@
+Hello {{firstName}}, 
+Welcome to Tesco Finance, to begin with, enter this email verification code in the browser: {{verifyCode}}
+http://www.xllr.co.uk

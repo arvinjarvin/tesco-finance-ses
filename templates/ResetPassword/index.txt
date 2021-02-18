@@ -1,0 +1,7 @@
+Dear {{firstName}},
+A request was made to reset your password, if this was you, please go to:
+{{resetPasswordUrl}}
+to reset your password!
+
+Kind Regards,
+The Tesco Finance Team
